@@ -19,4 +19,4 @@ Write queries to answer the following questions:
 17. List all employees and the department they belong to. 
 18. Show all stock items along with the category names they belong to. 
 19. Find all suppliers along with the products they supply (including suppliers who supply no products). 
-20. Retrieve all customers and the orders they have placed in April 2025. 
+20. Retrieve all customers and the orders they have placed in January 2019. 
