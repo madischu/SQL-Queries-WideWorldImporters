@@ -3,14 +3,14 @@ Write queries to answer the following questions:
 1. Find all customers whose names start with 'A'. 
 2. List all products that have a stock quantity greater than 100. 
 3. Retrieve the top 5 most expensive products. 
-4. Show all orders placed in the last 7 days. 
+4. Show all orders placed in the last 7 days from the max invoice date. 
 5. Find all suppliers located in the United States. 
 6. Retrieve the total sales amount per customer. 
 7. List all employees who work in the 'Sales' department. 
 8. Show the number of orders placed per customer. 
 9. Retrieve the names of all products that have not been ordered. 
 10. List the total amount of purchases for each supplier. 
-11. Retrieve the monthly sales totals for 2025. 
+11. Retrieve the monthly sales totals for 2018. 
 12. Retrieve all orders along with the customer name for each order. 
 13. List all products and their supplier names. 
 14. Show all orders and include the invoices if they exist. 
